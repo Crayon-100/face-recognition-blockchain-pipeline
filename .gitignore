@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Colab / notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+*.pem
+*.key
+
+# Downloaded/test images generated at runtime
+candidate_*.jpg
+test*.jpg
+downloaded_face.jpg
