@@ -96,7 +96,7 @@ Colab cell). It will:
 Example output:
 
 ```
-Encoded face from test3.jpg
+Encoded face from test.jpg
 Found 52 candidate matches
 Best match: https://www.instagram.com/p/DaccXwQRYC2/ (distance: 0.1957)
 Confidence margin over runner-up: 0.2766
